@@ -2,26 +2,26 @@
 There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is a backup in case there's an irreversible error in `Util`.
 
 ## Driver1 (`Driverlab6r1`)
-	- Since most values are all hard coded, simply run the program with the given file name
-	- There are nine text files to test this program:
-		- `scores1.txt` - empty file with header
-		- `scores2.txt` - 1 record with header
-		-  `scores3.txt` - 15 records with header
-		-  `scores4.txt` - 40 records with header 
-		-  `scores5.txt` - 42 records with header
-		-  `scores6.txt` - 3 records with header
-			-  Missing `SID` and scores
-		-  `scores7.txt` - 3 records WITHOUT header
-		-  `scores8.txt` - 5 records WITHOUT header
-			-  A string/char in the record
-		-  `scores9.txt` - 15 records WITHOUT header
-			-  Missing `SID` and scores
-			-  Strings/chars are present
+- Since most values are all hard coded, simply run the program with the given file name
+- There are nine text files to test this program:
+  + `scores1.txt` - empty file with header
+  + `scores2.txt` - 1 record with header
+  + `scores3.txt` - 15 records with header
+  + `scores4.txt` - 40 records with header 
+  + `scores5.txt` - 42 records with header
+  + `scores6.txt` - 3 records with header
+    ~ Missing `SID` and scores
+  + `scores7.txt` - 3 records WITHOUT header
+  + `scores8.txt` - 5 records WITHOUT header
+    ~ A string/char in the record
+  + `scores9.txt` - 15 records WITHOUT header
+    ~ Missing `SID` and scores
+    ~ Strings/chars are present
 
 - Since I put the source files and the test files on different folders, you will need to:
 1. Access the `testdata` folder
 2. Copy the pathway of `scores1.txt` and paste it to line 20
- Util u = new Util("pathwayToFile");
+ 	Util u = new Util("pathwayToFile");
 3. To test other files, simply change the number on the file name
  "...`scores1.txt`" --> "...`scores2.txt`"
 
