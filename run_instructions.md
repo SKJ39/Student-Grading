@@ -19,6 +19,7 @@ There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is
   + `scores9.txt` - 15 records WITHOUT header
 
     ~ Missing `SID` and scores
+
     ~ Strings/chars are present
 
 - Since I put the source files and the test files on different folders, you will need to:
@@ -26,6 +27,7 @@ There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is
 2. Copy the pathway of `scores1.txt` and paste it to line 20
 
   Util u = new Util("pathwayToFile");
+  
 4. To test other files, simply change the number on the file name
  "...`scores1.txt`" --> "...`scores2.txt`"
 
