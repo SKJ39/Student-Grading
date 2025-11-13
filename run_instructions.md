@@ -28,7 +28,7 @@ There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is
 
   Util u = new Util("pathwayToFile");
   
-4. To test other files, simply change the number on the file name
+3. To test other files, simply change the number on the file name
  
  ...`scores1.txt` --> ...`scores2.txt`
 
