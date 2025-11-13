@@ -64,8 +64,8 @@ An abstract class that provides a simple, high-level API for accessing the syste
 
 ### Drivers
 Two driver classes are defined to run the application:
-- `Driver1`: A simple driver that uses the `Util` class to read the file and print the properties of each `Student` object
-- `Driver2`: A more comprehensive driver that:
+- `Driver1.java`: A simple driver that uses the `Util` class to read the file and print the properties of each `Student` object
+- `Driver2.java`: A more comprehensive driver that:
   - Reads the file to build the `Student` array
   - Initializes the `Statistics` object and calculates the stats
   - Builds an array of `StudentGrade` objects  to prepare them for serialization
