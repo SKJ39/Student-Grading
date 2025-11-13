@@ -9,7 +9,7 @@ There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is
   + `scores3.txt` - 15 records with header
   + `scores4.txt` - 40 records with header 
   + `scores5.txt` - 42 records with header
-  + `scores6.txt` - 3 records with header
+  + `scores6.txt` - 3 records with header \n
     ~ Missing `SID` and scores
   + `scores7.txt` - 3 records WITHOUT header
   + `scores8.txt` - 5 records WITHOUT header
