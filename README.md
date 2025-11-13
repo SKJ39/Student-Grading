@@ -62,7 +62,7 @@ An abstract class that provides a simple, high-level API for accessing the syste
     - `printStudentScore()`: Deserializes and prints the scores for a specific student ID
     - `printStatistics()`: Deserializes any student's file (since statistics are shared) and prints the statistics
 
-## Drivers
+### Drivers
 Two driver classes are defined to run the application:
 - `Driver1`: A simple driver that uses the `Util` class to read the file and print the properties of each `Student` object
 - `Driver2`: A more comprehensive driver that:
