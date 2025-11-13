@@ -1,0 +1,52 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+	implement Serialization
+Variables
+	(int) private variable for the student's ID - SID
+	(int []) private array of the student's scores - scores[]
+
+
+Input
+	A default constructor with no parameter - public Student() {}
+	An overload constructor that takes the specified test data from an external file and assigned to the private class variables
+	public Student(int id, int[] s) {
+		this.SID = id;
+		this.scores = s;
+	}
+
+	Setter methods that assign values passed from the Driver
+	public void setScores(int s[]) {
+		this.scores = s;
+	}
+	public void setIndvScores(int i, int s) {
+		this.scores[i] = s;
+	}
+
+
+Processing
+	Getter methods that return private variable to the caller
+	public int[] getScores() {
+		return this.scores;
+	}
+	public int getIndvScores(int i) {
+		return this.scores[i];
+	}
+
+
+Printing
+	A method that prints the student's information
+	public void print() {
+		System.out.printf("Student ID: %d \n", this.SID);
+		System.out.printf("Scores: ");
+		for (int s : scores) {
+			System.out.printf("%d ", s);
+		}
+	}
+*******************************Design end************************************

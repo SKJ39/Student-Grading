@@ -1,0 +1,44 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+	implements Serialization
+Variables
+	(Student) private instance of the Student object that contains their SID and scores - stu
+	(Statistics) private instance of the Statistics object that contains the low, high, and average scores of all students for five quizzes - stat
+
+
+Input
+	A default constructor with no parameter - public StudentGrade() {}
+
+	An overload constructor that takes values passed as arguments from the calling method and assign them to the contained object
+	public StudentGrade(Student s, Statistics l) {
+		this.stu = s;
+		this.stat = l;
+	}
+
+	Setter methods that assign values to the private variables
+	public void setStu(Student s) {
+		this.stu = s;
+	}
+
+
+Processing
+	Getter methods that return private/private variables to the caller
+	public Student getStudent() {
+		return this.stu;
+	}
+
+
+Printing
+	A method that prints the private properties of Student and Statistics
+	public void print() {
+		stu.print();
+		stat.print(4);
+	}
+*******************************Design end************************************

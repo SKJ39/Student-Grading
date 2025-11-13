@@ -1,0 +1,33 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+Variables
+	(Student[]) an array of 40 Students (class objects) each containing their own student's ID and scores for the five quizzes - lab
+	(Util) class variable that reads an external file and build the Student[] array - u
+	(Statistics) class variable that calculate and print the lowest/highest/average scores attained by each student
+
+Input
+	(Util) the class that use the ReadFile object to read an external file that contains the SIDs and scores for all 40 students
+		Util u = new Util("file.txt");
+
+
+Processing
+	Call the Util class to read an external file and build an array of Student objects
+		lab = u.readFile(lab);
+	Create the Statistics class, pass Student array, and find the statistics (low, high, avg)
+		Statistics statlab = new Statistics();
+		statlab.findLow(lab);
+	A method that builds a StudentGrade[] array to serialize to a disk
+		Each Student = One object in StudentGrade[]
+		~ 15 records --> 15 files
+		All StudentGrade shares the same values in Statistics
+
+Printing
+	The deserializeGrades() method will print instances of each StudentGrade object
+*******************************Design end************************************}

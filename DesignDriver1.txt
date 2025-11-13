@@ -1,0 +1,31 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+Variables
+	(Student[]) an array of 40 Students (class objects) each containing their own student's ID and scores for the five quizzes - lab
+	(Util) class variable that reads an external file and build the Student[] array - u
+
+Input
+	(Util) the class that use the ReadFile object to read an external file that contains the SIDs and scores for all 40 students
+		Util u = new Util("file.txt");
+
+
+Processing
+	Call the Util class to read an external file and build an array of Student objects
+		lab = u.readFile(lab);
+
+Printing
+	Iterate through the Student[] array (lab) and print each object's properties
+	for (Student s : lab) {
+		if (s == null) {
+			break;
+		}
+		s.print();
+	}
+*******************************Design end************************************}

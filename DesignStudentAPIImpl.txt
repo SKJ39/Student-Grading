@@ -1,0 +1,53 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+	abstract class implement API
+Variables
+	(String) Private variable that holds the pathway to the specified location for serialization and deserialization of files - path
+
+
+Input
+	A default constructor with no parameter - 
+	public StudentAPIImpl() {
+
+		1. Loading the file and compute statistics - Util.readFile("filename.txt")
+		2. Creating StudentGrade objects - Driver2.buildStudGradArray(Student[] stu)
+		3. Writing serialized files - UtilCopy.serializeGrades(int SID)
+
+	}
+
+	Setter methods that assign values passed from the Driver
+	public void setPath(String p) {
+		this.path = p;
+
+
+Processing
+	Getter methods that return private variable to the caller
+	public String getPath() {
+		return this.path;
+	}
+
+
+Printing
+	A method that prints the score for a given student ID
+		public void printStudentScore(int SID) {
+		//read the serialized file and print the score - use studentid as filename
+
+		UtilCopy u = new UtilCopy();
+		u.deserializeGrades(SID, path);
+	}
+	
+	A method that prints the statistics
+		public void printStatistics(){
+		//read any serialized file and print the value for statistics (is same in all files)
+
+		UtilCopy u = new UtilCopy();
+		u.deserializeGrades(1234, path);
+	}
+*******************************Design end************************************

@@ -1,0 +1,65 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+	implements Serialization
+Variables
+	(Integer []) private wrapper array containing the lowest scores earned in each quiz - lowscores
+	(Integer []) private wrapper array containing the highest scores earned in each quiz - highscores
+	(Float []) private wrapper array containing the average scores earned in each quiz - avgscores
+
+
+Input
+	A default constructor with no parameter - public Statistics() {}
+	An overload constructor that takes the specified test data from the Driver or external file and assigned to the private class variables
+	public Statistics(Integer[] l, Integer[] h, Float[] avg) {
+		lowscores = l;
+		highscores = h;
+		avgscores = avg;
+	}
+
+
+Processing
+	Method will find the lowest/highest/average score from the array of scores of the Student object and store it in an array
+	for (Student s : stu[]) {
+		if (s.getScore() < low)
+			low = s.getScore();
+	}
+
+	Getter methods that return static/private variable to the caller
+	public Integer[] getLow() {
+		return this.lowscores;
+	}
+	public int getLowScore(int i) {
+		return this.lowscores[i];
+	}
+
+
+Printing
+	Methods that print values of instance variables of the Statistics class
+	public void print(int option) {
+		if (lowscores[0] == null) {
+			System.out.printf("No record available! \n");
+			return;
+		}
+		switch (option) {
+			case 1: 
+				printLow();
+				break;
+		(...)
+	}
+
+	public void printLow() {
+		System.out.printf("%-15s", "Low scores: ");
+		for (int l : this.lowscores) {
+			System.out.printf("%d ", l);
+		}
+		System.out.printf("\n");
+	}
+	(...)
+*******************************Design end************************************

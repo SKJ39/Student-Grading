@@ -1,0 +1,441 @@
+//scores5.txt - 42 records
+Student ID: 1234 
+Scores: [ 52 7 100 78 34 ]
+
+Student ID: 2134 
+Scores: [ 90 36 90 77 30 ]
+
+Student ID: 3124 
+Scores: [ 100 45 20 90 70 ]
+
+Student ID: 4532 
+Scores: [ 11 17 81 32 77 ]
+
+Student ID: 5678 
+Scores: [ 20 12 45 78 34 ]
+
+Student ID: 6134 
+Scores: [ 34 80 55 78 45 ]
+
+Student ID: 7874 
+Scores: [ 60 100 56 78 78 ]
+
+Student ID: 8026 
+Scores: [ 70 10 66 78 56 ]
+
+Student ID: 9893 
+Scores: [ 34 9 77 78 20 ]
+
+Student ID: 1947 
+Scores: [ 45 40 88 78 55 ]
+
+Student ID: 2877 
+Scores: [ 55 50 99 78 80 ]
+
+Student ID: 3189 
+Scores: [ 22 70 100 78 77 ]
+
+Student ID: 4602 
+Scores: [ 89 50 91 78 60 ]
+
+Student ID: 5405 
+Scores: [ 11 11 0 78 10 ]
+
+Student ID: 6999 
+Scores: [ 0 98 89 78 20 ]
+
+Student ID: 2345 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 3456 
+Scores: [ 67 77 84 82 79 ]
+
+Student ID: 4567 
+Scores: [ 77 89 93 87 71 ]
+
+Student ID: 1234 
+Scores: [ 52 7 100 78 34 ]
+
+Student ID: 2134 
+Scores: [ 90 36 90 77 30 ]
+
+Student ID: 3124 
+Scores: [ 100 45 20 90 70 ]
+
+Student ID: 4532 
+Scores: [ 11 17 81 32 77 ]
+
+Student ID: 5678 
+Scores: [ 20 12 45 78 34 ]
+
+Student ID: 6134 
+Scores: [ 34 80 55 78 45 ]
+
+Student ID: 7874 
+Scores: [ 60 100 56 78 78 ]
+
+Student ID: 8026 
+Scores: [ 70 10 66 78 56 ]
+
+Student ID: 9893 
+Scores: [ 34 9 77 78 20 ]
+
+Student ID: 1947 
+Scores: [ 45 40 88 78 55 ]
+
+Student ID: 2877 
+Scores: [ 55 50 99 78 80 ]
+
+Student ID: 3189 
+Scores: [ 22 70 100 78 77 ]
+
+Student ID: 4602 
+Scores: [ 89 50 91 78 60 ]
+
+Student ID: 5405 
+Scores: [ 11 11 0 78 10 ]
+
+Student ID: 6999 
+Scores: [ 0 98 89 78 20 ]
+
+Student ID: 2345 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 3456 
+Scores: [ 67 77 84 82 79 ]
+
+Student ID: 4567 
+Scores: [ 77 89 93 87 71 ]
+
+Student ID: 6999 
+Scores: [ 0 98 89 78 20 ]
+
+Student ID: 2345 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 3456 
+Scores: [ 67 77 84 82 79 ]
+
+Student ID: 4567 
+Scores: [ 77 89 93 87 71 ]
+
+//scores6.txt - 3 records (missing SID and scores)
+================================================
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+One Student is missing an ID number. 
+Assigning SID with a default number of 0000. 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+One Student is missing a score. 
+Assigning the last quiz with a default score of 0. 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+One Student is missing a score. 
+Assigning the last quiz with a default score of 0. 
+================================================
+
+Student ID: 0000 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 2134 
+Scores: [ 67 77 82 79 0 ]
+
+Student ID: 1852 
+Scores: [ 89 93 87 71 0 ]
+
+//scores7.txt - 3 records without header
+================================================
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+Student ID: 1234 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 2134 
+Scores: [ 67 77 82 79 89 ]
+
+Student ID: 1852 
+Scores: [ 77 89 93 87 71 ]
+
+//scores8.txt - 5 records without header (string/char present)
+================================================
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+
+================================================
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+SID or score has a letter. 
+Assigning token with a default value of "0000" 
+================================================
+
+Student ID: 1234 
+Scores: [ 78 83 87 91 0 ]
+
+Student ID: 2134 
+Scores: [ 67 77 82 79 89 ]
+
+Student ID: 1852 
+Scores: [ 77 89 93 87 71 ]
+
+Student ID: 3759 
+Scores: [ 55 78 98 45 87 ]
+
+Student ID: 6394 
+Scores: [ 99 100 79 89 95 ]
+
+//scores9.txt - 15 records without header (missing SID and scores; string/char present)
+================================================
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+
+================================================
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+SID or score has a letter. 
+Assigning token with a default value of "0000" 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+SID or score has a letter. 
+Assigning token with a default value of "0000" 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+SID or score has a letter. 
+Assigning token with a default value of "0000" 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+One Student is missing a score. 
+Assigning the last quiz with a default score of 0. 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+SID or score has a letter. 
+Assigning token with a default value of "0000" 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+One Student is missing an ID number. 
+Assigning SID with a default number of 0000. 
+================================================
+
+
+================================================
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+SID or score has a letter. 
+Assigning token with a default value of "0000" 
+================================================
+
+Student ID: 0000 
+Scores: [ 52 7 100 78 34 ]
+
+Student ID: 2134 
+Scores: [ 90 36 90 77 30 ]
+
+Student ID: 3124 
+Scores: [ 100 45 20 90 70 ]
+
+Student ID: 4532 
+Scores: [ 11 17 81 32 77 ]
+
+Student ID: 5678 
+Scores: [ 20 12 45 78 34 ]
+
+Student ID: 6134 
+Scores: [ 34 80 55 0 45 ]
+
+Student ID: 7874 
+Scores: [ 60 100 56 78 78 ]
+
+Student ID: 8026 
+Scores: [ 0 66 78 56 0 ]
+
+Student ID: 9893 
+Scores: [ 34 9 77 78 20 ]
+
+Student ID: 0000 
+Scores: [ 45 40 88 78 55 ]
+
+Student ID: 0000 
+Scores: [ 55 50 99 78 80 ]
+
+Student ID: 3189 
+Scores: [ 22 70 100 78 77 ]
+
+Student ID: 4602 
+Scores: [ 89 50 91 78 60 ]
+
+Student ID: 5405 
+Scores: [ 11 0 0 78 10 ]
+
+Student ID: 6999 
+Scores: [ 0 98 89 78 20 ]
+
+//somefile.txt
+================================================
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+File not found. 
+Switching to default file ("score4.txt") 
+================================================
+
+Student ID: 1234 
+Scores: [ 52 7 100 78 34 ]
+
+Student ID: 2134 
+Scores: [ 90 36 90 77 30 ]
+
+Student ID: 3124 
+Scores: [ 100 45 20 90 70 ]
+
+Student ID: 4532 
+Scores: [ 11 17 81 32 77 ]
+
+Student ID: 5678 
+Scores: [ 20 12 45 78 34 ]
+
+Student ID: 6134 
+Scores: [ 34 80 55 78 45 ]
+
+Student ID: 7874 
+Scores: [ 60 100 56 78 78 ]
+
+Student ID: 8026 
+Scores: [ 70 10 66 78 56 ]
+
+Student ID: 9893 
+Scores: [ 34 9 77 78 20 ]
+
+Student ID: 1947 
+Scores: [ 45 40 88 78 55 ]
+
+Student ID: 2877 
+Scores: [ 55 50 99 78 80 ]
+
+Student ID: 3189 
+Scores: [ 22 70 100 78 77 ]
+
+Student ID: 4602 
+Scores: [ 89 50 91 78 60 ]
+
+Student ID: 5405 
+Scores: [ 11 11 0 78 10 ]
+
+Student ID: 6999 
+Scores: [ 0 98 89 78 20 ]
+
+Student ID: 2345 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 3456 
+Scores: [ 67 77 84 82 79 ]
+
+Student ID: 4567 
+Scores: [ 77 89 93 87 71 ]
+
+Student ID: 1234 
+Scores: [ 52 7 100 78 34 ]
+
+Student ID: 2134 
+Scores: [ 90 36 90 77 30 ]
+
+Student ID: 3124 
+Scores: [ 100 45 20 90 70 ]
+
+Student ID: 4532 
+Scores: [ 11 17 81 32 77 ]
+
+Student ID: 5678 
+Scores: [ 20 12 45 78 34 ]
+
+Student ID: 6134 
+Scores: [ 34 80 55 78 45 ]
+
+Student ID: 7874 
+Scores: [ 60 100 56 78 78 ]
+
+Student ID: 8026 
+Scores: [ 70 10 66 78 56 ]
+
+Student ID: 9893 
+Scores: [ 34 9 77 78 20 ]
+
+Student ID: 1947 
+Scores: [ 45 40 88 78 55 ]
+
+Student ID: 2877 
+Scores: [ 55 50 99 78 80 ]
+
+Student ID: 3189 
+Scores: [ 22 70 100 78 77 ]
+
+Student ID: 4602 
+Scores: [ 89 50 91 78 60 ]
+
+Student ID: 5405 
+Scores: [ 11 11 0 78 10 ]
+
+Student ID: 6999 
+Scores: [ 0 98 89 78 20 ]
+
+Student ID: 2345 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 3456 
+Scores: [ 67 77 84 82 79 ]
+
+Student ID: 4567 
+Scores: [ 77 89 93 87 71 ]
+
+Student ID: 6999 
+Scores: [ 0 98 89 78 20 ]
+
+Student ID: 2345 
+Scores: [ 78 83 87 91 86 ]
+
+Student ID: 3456 
+Scores: [ 67 77 84 82 79 ]
+
+Student ID: 4567 
+Scores: [ 77 89 93 87 71 ]

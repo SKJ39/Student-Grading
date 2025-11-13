@@ -1,0 +1,2466 @@
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:202)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:196)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:124)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:202)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:196)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:124)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:202)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:196)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:124)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:184)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:202)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:196)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:124)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:184)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:212)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:212)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:212)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:212)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:204)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:212)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:198)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:124)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:212)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:184)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:22)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:124)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:113)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:207)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:201)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:207)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:201)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:207)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:201)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:86)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:186)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:215)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:201)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:207)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:207)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:172)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:62)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:171)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:62)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:171)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:62)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:214)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:185)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:200)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:206)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:171)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:62)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:161)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:44)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:187)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:220)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:220)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:220)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:220)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:202)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:220)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:187)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:220)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:187)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:202)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:210)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:189)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:77)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:222)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:81)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:222)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:222)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:212)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:142)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:222)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:204)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:125)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:222)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:114)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:87)
+	at Java/lab6.driver.Driver1.main(Driver1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/lab6.driver.Driver2.main(Driver2.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driver3.main(Driver3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testHeader(UtilCopy.java:193)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:78)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 3, errormsg= Missing Header.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:82)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testScore(UtilCopy.java:216)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:143)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 5, errormsg= Missing Score.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testID(UtilCopy.java:208)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:126)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 4, errormsg= Missing Student ID.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testFormat(UtilCopy.java:227)
+	at Java/util.UtilCopy.buildStudent(UtilCopy.java:115)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:88)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 6, errormsg= Incorrect format.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/lab6.driver.Driverlab6r2.main(Driverlab6r2.java:21)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.deserializeGrades(UtilCopy.java:268)
+	at Java/adapter.StudentAPIImpl.printStudentScore(StudentAPIImpl.java:51)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:17)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.deserializeGrades(UtilCopy.java:268)
+	at Java/adapter.StudentAPIImpl.printStudentScore(StudentAPIImpl.java:51)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:17)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.deserializeGrades(UtilCopy.java:268)
+	at Java/adapter.StudentAPIImpl.printStudentScore(StudentAPIImpl.java:51)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:17)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.testRecord(UtilCopy.java:175)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:63)
+	at Java/adapter.StudentAPIImpl.<init>(StudentAPIImpl.java:25)
+	at Java/adapter.SAPI.<init>(SAPI.java:12)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:15)
+
+StudentGradingException [errorno= 2, errormsg= Missing score record.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.deserializeGrades(UtilCopy.java:268)
+	at Java/adapter.StudentAPIImpl.printStudentScore(StudentAPIImpl.java:51)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:17)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.deserializeGrades(UtilCopy.java:268)
+	at Java/adapter.StudentAPIImpl.printStudentScore(StudentAPIImpl.java:51)
+	at Java/lab6.driver.Driverlab6r3.main(Driverlab6r3.java:17)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+
+exception.StudentGradingException
+	at Java/util.UtilCopy.openFile(UtilCopy.java:165)
+	at Java/util.UtilCopy.readFile(UtilCopy.java:45)
+	at Java/lab6.driver.Driverlab6r1.main(Driverlab6r1.java:21)
+
+StudentGradingException [errorno= 1, errormsg= File not found.
+================================================
+

@@ -1,0 +1,91 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+Variables
+	(String) private variable for the file name containing the student ID and scores for 40 students
+	(boolean) private variable to set whether or not to print the read line from a file - DEBUG
+
+
+Input
+	A default constructor with no parameter - public Util() {}
+	An overload constructor that takes the name of an external file and assigned to the private class variable
+	public Util(String file) {
+		this.fname = file;
+
+
+Processing
+	A method that reads an external file and builds Student array
+		1. Open the file using FileReader Object
+			FileReader file = new FileReader(this.fname);
+		2. In a loop read a line using readLine method
+			while (!eof) {
+				String line = buff.readLine();
+		3. Tokenize each line using StringTokenizer Object
+			StringTokenizer st = new StringTokenizer(line);
+		4. Each token is converted from String to Integer using parseInt method
+			int x = Integer.parseInt(String);
+		5. Value is then saved in the right property of Student Object
+			student.setScore(x);
+
+	Methods that test and throw exceptions for the readFile method to handle
+
+	public boolean openFile() throws StudentGradingException, IOException {
+		FileInputStream a1 = null;
+		boolean flag = false;
+		
+		try {
+			a1 = new FileInputStream(fname);
+			flag = true;
+		}
+		catch(FileNotFoundException f) {
+			throw new StudentGradingException(1, "File not found.");
+		}
+		
+		a1.close();
+		return flag;
+	}
+
+	Two methods that implements Serialization: one for serialized object, and the other to deserialize
+
+	public void serializeGrades(StudentGrade[] a) {
+		int SID;
+		String filename;
+		FileOutputStream file;
+		
+		for(StudentGrade g : a) {
+			SID = g.getStudent().getSID();
+			filename = Integer.toString(SID) + ".dat";
+			file = new FileOutputStream(filename);
+
+			ObjectOutputStream out = new ObjectOutputStream(file);				
+			out.writeObject(g);
+
+			out.close();
+		}
+	}
+
+	public void deserializeGrades(int SID) {
+		String filename = Integer.toString(SID) + ".dat";
+		
+		FileInputStream file = new FileInputStream(filename);
+		ObjectInputStream in = new ObjectInputStream(file);
+
+		StudentGrade newGrade = (StudentGrade) in.readObject();				
+		newGrade.print();
+
+		in.close();
+	}
+
+
+Printing
+	A method that prints the file name
+	public void print() {
+		System.out.printf("File name: %s \n", this.fname);
+	}
+*******************************Design end************************************

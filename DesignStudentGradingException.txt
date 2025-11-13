@@ -1,0 +1,71 @@
+*******************************Design start************************************
+ Design
+	4 parts - 
+	Variables
+	Input
+	Processing 
+	Output
+
+Design
+Variables
+	(int) private error number for the Exception - errorno
+	(String) private message for the Exception - errormsg
+
+
+Input
+	A default constructor with no parameter - public StudentGradingException() {}
+
+	An overload constructor that takes an integer, string, both, or none and assign them to private variables
+
+	public StudentGradingException(int no, String msg) {
+		this.errorno = no;
+		this.errormsg = msg;
+	}
+
+	Setter methods that assign values to the instance/private variables
+	public void setErrorno(int n) {
+		this.errorno = n;
+	}
+
+
+Processing
+	Getter methods that return instance/private variables to the caller
+	public int getErrorno() {
+		return this.errorno;
+	}
+
+	Custom exception handling methods that fixes the exception
+	
+	public String fixFileNotFound() {
+		String a = "/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/testdata/scores4.txt";
+		
+		System.out.printf("File not found. \n");
+		System.out.printf("Switching to default file (\"score4.txt\") \n");
+		System.out.printf("================================================\n\n");
+		
+		return a;
+	}
+
+
+Printing
+	A method that prints the instance variables of the custom exception
+	public void print() {
+		System.out.println("StudentGradingException [errorno= " + errorno + ", errormsg= " + errormsg);
+	}
+
+	A method that logs exceptions to a text file
+	public void printToFile() {
+		FileWriter file = null;
+		String log = "StudentGradingException [errorno= " + Integer.toString(errorno) + ", errormsg= " + errormsg;
+		
+		try {
+			file = new FileWriter("/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/logs.txt", true);
+		
+			file.write(log);
+			file.close();
+		} 
+		catch (IOException e) {
+			System.out.printf("Error -- " + e.toString() + "\n");
+		}
+	}
+*******************************Design end************************************
