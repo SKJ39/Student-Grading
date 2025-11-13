@@ -1,6 +1,6 @@
 ### Note: 
 There are two copies of the FileIO classes, Util and UtilCopy. Util is the original FileIO implementation from Lab 5, and UtilCopy is the new FileIO implementation for Lab 6. My intention for leaving the original in the submission is that in case I caused irreversible FileIO errors in UtilCopy, I can revert back to the original.
-## `Driver1` (`Driverlab6r1`)
+## Driver1 (`Driverlab6r1`)
 	- Since most values are all hard coded, simply run the program with the given file name
 	- There are nine text files to test this program:
 		+ `scores1.txt` - empty file with header
