@@ -1,5 +1,6 @@
 ### Note: 
-There are two copies of the FileIO classes, Util and UtilCopy. Util is the original FileIO implementation from Lab 5, and UtilCopy is the new FileIO implementation for Lab 6. My intention for leaving the original in the submission is that in case I caused irreversible FileIO errors in UtilCopy, I can revert back to the original.
+There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is a backup in case there's an irreversible error in `Util`.
+
 ## Driver1 (`Driverlab6r1`)
 	- Since most values are all hard coded, simply run the program with the given file name
 	- There are nine text files to test this program:
@@ -47,4 +48,4 @@ There are two copies of the FileIO classes, Util and UtilCopy. Util is the origi
 		+ Copy pathway to the folder `serialize` and paste to line 35
 
 ### Note: 
-I did not provide design notes for StudentAPI, SAPI, and Driver3 since they simply initializes the interface, extends the parent abstract class to instantiates StudentAPIImpl, or call the methods inside SAPI.
+I did not provide design notes for `StudentAPI`, `SAPI`, and **Driver3** since they simply initializes the interface, extends the parent abstract class to instantiates `StudentAPIImpl`, or call the methods inside `SAPI`.
