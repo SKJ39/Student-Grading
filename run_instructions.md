@@ -2,9 +2,9 @@
 There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is a backup in case there's an irreversible error in `Util`.
 
 ## Driver1 (`Driverlab6r1`)
-	- Since most values are all hard coded, simply run the program with the given file name
-	- There are nine text files to test this program:
-		+ `scores1.txt` - empty file with header
+	|- Since most values are all hard coded, simply run the program with the given file name
+	|- There are nine text files to test this program:
+		|+ `scores1.txt` - empty file with header
 		+ `scores2.txt` - 1 record with header
 		+ `scores3.txt` - 15 records with header
 		+ `scores4.txt` - 40 records with header 
