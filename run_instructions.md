@@ -26,7 +26,7 @@ There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is
 1. Access the `testdata` folder
 2. Copy the pathway of `scores1.txt` and paste it to line 20
 
-  Util u = new Util("pathwayToFile");
+    Util u = new Util("pathwayToFile");
   
 3. To test other files, simply change the number on the file name
  
