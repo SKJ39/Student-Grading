@@ -29,7 +29,8 @@ There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is
   Util u = new Util("pathwayToFile");
   
 4. To test other files, simply change the number on the file name
- "...`scores1.txt`" --> "...`scores2.txt`"
+ 
+ ...`scores1.txt` --> ...`scores2.txt`
 
 - You will need to change the path name in the exception handler class
 1. Go to `StudentGradingException`
