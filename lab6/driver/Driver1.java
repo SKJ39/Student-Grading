@@ -1,23 +1,17 @@
-//====================================================================
-//Anh Truong
-//CIS 35A -- 00450
-//Lab 6 - Exception Handling, Serialization and API
-//Due: Mar 17, 2024
-//====================================================================
-
 package lab6.driver;
 
 import model.Student;
 import util.UtilCopy;
 
-public class Driverlab6r1 {
+public class Driver1 {
 
 	public static void main(String[] args) {
 		Student[] lab = new Student[40];
 		
 		//Populate Student Array
-		//UtilCopy u = new UtilCopy("somerandomfilename.txt");
-		UtilCopy u = new UtilCopy("/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/testdata/scores6.txt");
+		// TODO: Update the string below for the path to any .txt file in testdata
+		String score_path = "/Users/{username}/GitHub/Student-Grading/testdata/scores6.txt"
+		UtilCopy u = new UtilCopy(score_path);
 		lab = u.readFile(lab);
 		
 		//Print SID and scores for each Student object

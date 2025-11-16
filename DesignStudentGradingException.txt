@@ -10,6 +10,7 @@ Design
 Variables
 	(int) private error number for the Exception - errorno
 	(String) private message for the Exception - errormsg
+	(String) private path to the project folder - path
 
 
 Input
@@ -37,7 +38,7 @@ Processing
 	Custom exception handling methods that fixes the exception
 	
 	public String fixFileNotFound() {
-		String a = "/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/testdata/scores4.txt";
+		String a = "/Users/{username}/GitHub/Student-Grading/testdata/scores4.txt";
 		
 		System.out.printf("File not found. \n");
 		System.out.printf("Switching to default file (\"score4.txt\") \n");
@@ -59,7 +60,7 @@ Printing
 		String log = "StudentGradingException [errorno= " + Integer.toString(errorno) + ", errormsg= " + errormsg;
 		
 		try {
-			file = new FileWriter("/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/logs.txt", true);
+			file = new FileWriter(this.path + "logs.txt", true);
 		
 			file.write(log);
 			file.close();

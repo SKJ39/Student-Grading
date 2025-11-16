@@ -1,10 +1,3 @@
-//====================================================================
-//Anh Truong
-//CIS 35A -- 00450
-//Lab 6 - Exception Handling, Serialization and API
-//Due: Mar 17, 2024
-//====================================================================
-
 package exception;
 
 import java.io.*;
@@ -13,7 +6,9 @@ public class StudentGradingException extends Exception{
 	private static final long serialVersionUID = 1L;
 	private int errorno;
 	private String errormsg;
-	private String path = "/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/";
+
+	// TODO: Update the path below for the path to the Student-Grading folder
+	private String path = "/Users/{username}/GitHub/Student-Grading";
 	
 	//Default Constructor
 	public StudentGradingException() {

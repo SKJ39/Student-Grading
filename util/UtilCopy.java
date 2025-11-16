@@ -1,10 +1,3 @@
-//====================================================================
-//Anh Truong
-//CIS 35A -- 00450
-//Lab 6 - Exception Handling, Serialization and API
-//Due: Mar 17, 2024
-//====================================================================
-
 package util;
 
 import java.io.*;
@@ -150,7 +143,6 @@ public class UtilCopy {
 	}
 	
 	//====================================================================
-	//Requirement 1
 	
 	//Test and throw any FileNotFoundException
 	public boolean openFile(String filename) throws StudentGradingException, IOException {
@@ -229,7 +221,6 @@ public class UtilCopy {
 	}
 	
 	//====================================================================
-	//Requirement 2
 	
 	//Serialization
 	public void serializeGrades(StudentGrade[] a, String path) {

@@ -1,23 +1,18 @@
-//====================================================================
-//Anh Truong
-//CIS 35A -- 00450
-//Lab 6 - Exception Handling, Serialization and API
-//Due: Mar 17, 2024
-//====================================================================
-
 package lab6.driver;
 import model.StudentGrade;
 import util.UtilCopy;
 import model.Student;
 import model.Statistics;
 
-public class Driverlab6r2 {
+public class Driver2 {
 
 	public static void main(String[] args) {
 		Student[] lab = new Student[40];
 		
 		//Populate Student[] Array
-		UtilCopy u = new UtilCopy("/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/testdata/scores4.txt");
+		// TODO: Update the string below for the path to any .txt file in testdata
+		String score_path = "/Users/{username}/GitHub/Student-Grading/testdata/scores6.txt"
+		UtilCopy u = new UtilCopy(score_path);
 		lab = u.readFile(lab);
 		
 		//Create a Statistics object
@@ -28,7 +23,9 @@ public class Driverlab6r2 {
 		StudentGrade[] grade = buildStuGradArray(lab, statlab);
 		
 		//Serialize and Deserialize StudentGrade
-		String path = "/Users/anhtruong/VSC/Java/Exports/CIS 35a - Lab<6>/serialize/";
+		// TODO: Update the string below for the path to 'serialize' folder
+		String serialize_path ="/Users/{username}/GitHub/Student-Grading/serialize" 
+		String path = serialize_path;
 		
 		u.serializeGrades(grade, path);
 		for (Student s : lab) {
