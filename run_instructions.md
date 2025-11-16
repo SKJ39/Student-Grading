@@ -54,5 +54,8 @@ There are two copies of the FileIO classes, `Util` and `UtilCopy`. `UtilCopy` is
  Go to `StudentAPIImpl`
  Copy the pathway to the folder `serialize` and paste it to line 35
 
+## `StudentGradingException`
+- Update `path` to the path to the `Student-Grading` folder of this project
+
 ### Note: 
 I did not provide design notes for `StudentAPI`, `SAPI`, and **Driver3** since they simply initialize the interface, extend the parent abstract class to instantiate `StudentAPIImpl`, or call the methods inside `SAPI`.
