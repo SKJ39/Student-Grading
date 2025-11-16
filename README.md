@@ -73,7 +73,7 @@ Two driver classes are defined to run the application:
 ## Running the Program
 Specific instructions to run the program are in `run_instructions.md`.
 
-Visual representations of the program are in `Class_Diagram6-R1.jpg`, `Class_Diagram6-R2.jpg`, and `Class_Diagram6-R1.jpg`.
+UML diagrams of the program are in `Class_Diagram6-R1.jpg`, `Class_Diagram6-R2.jpg`, and `Class_Diagram6-R1.jpg`.
 
 More details about each classes are in their respective `.txt` files.
 
