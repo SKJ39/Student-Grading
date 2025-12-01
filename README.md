@@ -5,6 +5,7 @@ A Java-based student grading system that reads student quiz scores from a file, 
 The system is broken down into several key classes:
 
 `Student`
+
 This class is the core data model for a single student.
   - **Variables**: Stores a private `SID` (int) and a private `scores[]` (int array) for quiz scores
   - **Functionality**:
