@@ -69,7 +69,7 @@ An abstract class that provides a simple, high-level API for accessing the syste
     - `printStatistics()`: Deserializes any student's file (since statistics are shared) and prints the statistics
 
 ### Drivers
-Two driver classes are defined to run the application:
+Two main driver classes are defined to run the application:
 - `Driver1.java`: A simple driver that uses the `Util` class to read the file and print the properties of each `Student` object
 - `Driver2.java`: A more comprehensive driver that:
   - Reads the file to build the `Student` array
@@ -81,7 +81,7 @@ Specific instructions to run the program are in `run_instructions.md`.
 
 UML diagrams of the program are in `Class_Diagram6-R1.jpg`, `Class_Diagram6-R2.jpg`, and `Class_Diagram6-R1.jpg`.
 
-More details about each classes are in their respective `.txt` files.
+More details about each class are in their respective `.txt` files.
 
 ## Disclaimer
 This project was created for academic purposes.
