@@ -15,6 +15,7 @@ This class is the core data model for a single student.
     - Implements `Serialization`
 
 `Statistics`
+
 This class calculates and stores aggregate statistics for the quizzes across all students.
   - **Variables**: Stores private arrays for `lowscores`, `highscores`, and `avgscores`
   - **Functionality**:
@@ -25,6 +26,7 @@ This class calculates and stores aggregate statistics for the quizzes across all
     - Implements `Serialization`
 
 `StudentGrade`
+
 This class acts as a container that bundles a `Student` object with the overall `Statistics` object. This combined object is used for serialization.
   - **Variables**: Holds a private `Student` instance (`stu`) and a private `Statistics` instance (`stat`)
   - **Functionality**:
@@ -33,21 +35,23 @@ This class acts as a container that bundles a `Student` object with the overall 
     - Implements `Serialization`
 
 `Util`
+
 This is a utility class responsible for file I/O and serialization.
 
-### File Reading:
-- Reads an external file specified by the `fname` variable
-- Reads the file line-by-line and uses `StringTokenizer` to parse the data
-- Converts string tokens to integers and populates `Student` objects
+- **File Reading**:
+  - Reads an external file specified by the `fname` variable
+  - Reads the file line-by-line and uses `StringTokenizer` to parse the data
+  - Converts string tokens to integers and populates `Student` objects
 
-### Error Handling:
-- Includes an `openFile()` method that checks for `FileNotFoundException` and throws a custom `StudentGradingException` if the file is missing
+- **Error Handling**:
+  - Includes an `openFile()` method that checks for `FileNotFoundException` and throws a custom `StudentGradingException` if the file is missing
 
-### Serialization:
-- `serializeGrades()`: Takes an array of `StudentGrade` objects and serializes each one to a separate `.dat` file using `ObjectOutputStream`. The filename is based on the student's ID
-- `deserializeGrades()`: Reads a `.dat` file for a given `SID` using `ObjectInputStream` and prints the deserialized `StudentGrade` object's data
+- **Serialization**:
+  - `serializeGrades()`: Takes an array of `StudentGrade` objects and serializes each one to a separate `.dat` file using `ObjectOutputStream`. The filename is based on the student's ID
+  - `deserializeGrades()`: Reads a `.dat` file for a given `SID` using `ObjectInputStream` and prints the deserialized `StudentGrade` object's data
 
 `StudentGradingException`
+
 This is a custom exception class to handle errors specific to this application.
   - **Variables**: Stores a private `errorno` (int) and `errormsg` (String)
   - **Functionality**:
@@ -57,6 +61,7 @@ This is a custom exception class to handle errors specific to this application.
     - `printToFile()`: Appends the error details to a central `logs.txt` file
 
 `StudentAPIImpl`
+
 An abstract class that provides a simple, high-level API for accessing the system's functionality.
   - **Functionality**:
     - The constructor handles loading data, computing statistics, and serializing the files
