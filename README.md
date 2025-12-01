@@ -77,5 +77,5 @@ UML diagrams of the program are in `Class_Diagram6-R1.jpg`, `Class_Diagram6-R2.j
 
 More details about each classes are in their respective `.txt` files.
 
-## Disclaimer:
+## Disclaimer
 This project was created for academic purposes.
